@@ -2,7 +2,7 @@
 
 A repository of answers for frequently asked questions about Joshua Kahen.
 
-Last updated on `Sunday, March 28th, 2021` - Joshua is 7 months and 6 days old.
+Last updated on `Sunday, March 28th, 2021`.
 
 ### Where is Joshua?
 
