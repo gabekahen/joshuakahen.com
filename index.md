@@ -2,20 +2,41 @@
 
 A repository of answers for frequently asked questions about Joshua Kahen.
 
-### Is Joshua..
-
-#### ..Standing?
-
-No, Joshua is not yet able to stand on his own two feet. If Joshua is upright, it is because he is being held up by one of his parents.
-
-#### ..On His Stomach?
-
-If Joshua's back is parallel to the ground with his face down, Joshua may be on his stomach.
-
-#### ..Asleep?
-
-If his eyes are closed, Joshua is likely asleep. Joshua will often open his eyes if he is awake, but may close them for a few seconds at a time.
+Last updated on `Sunday, March 28th, 2021` - Joshua is 7 months and 6 days old.
 
 ### Where is Joshua?
 
 Being unable to walk, Joshua is likely wherever his parents last left him. Undoubtably, this will be somewhere within the home.
+
+### Does Joshua Have (any more) Teeth?
+
+Joshua already possesses all of his [baby teeth](https://en.wikipedia.org/wiki/Deciduous_teeth); though at time of writing, only two have erupted from his lower gumline.
+
+### Is Joshua..
+
+#### .. Talking?
+
+Joshua is still pre-verabl, but has aquired a small repertoire of noises he can effectively reproduce, including:
+- Clicking (tounge)
+- Farting (lips)
+- Squealing 
+
+#### .. Crawling?
+
+Joshua is not yet capable of linear motion, but has reliably rolled himself sideways for short distances.
+
+#### .. Standing?
+
+No, Joshua is not yet able to stand on his own two feet. If Joshua is upright, it is because he is being held up by one of his parents.
+
+#### .. Walking?
+
+See [Standing](#standing), above.
+
+#### .. On His Stomach?
+
+If Joshua's back is parallel to the ground with his face down, Joshua may be on his stomach.
+
+#### .. Asleep?
+
+If his eyes are closed, Joshua is likely asleep. Joshua will often open his eyes if he is awake, but may close them for a few seconds at a time.
