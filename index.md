@@ -16,8 +16,8 @@ Joshua already possesses all of his [baby teeth](https://en.wikipedia.org/wiki/D
 
 #### .. Talking?
 
-Joshua is still pre-verabl, but has aquired a small repertoire of noises he can effectively reproduce, including:
-- Clicking (tounge)
+Joshua is still pre-verbal, but has aquired a small repertoire of noises he can effectively reproduce, including:
+- Clicking (tongue)
 - Farting (lips)
 - Squealing 
 
@@ -45,6 +45,6 @@ If his eyes are closed, Joshua is likely asleep. Joshua will often open his eyes
 
 Although Joshua does have clothes, he does at times go without them. If a large amount of Joshua's skin is exposed to view, he is likely not wearing any clothes (naked).
 
-#### Touching, Seeing, Hearing, Tasting, Smelling?
+#### .. Touching, Seeing, Hearing, Tasting, Smelling?
 
 Presumably, though he has not directly conveyed his experience of these senses to us - see [Talking](#-talking).
