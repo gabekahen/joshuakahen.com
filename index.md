@@ -31,7 +31,7 @@ No, Joshua is not yet able to stand on his own two feet. If Joshua is upright, i
 
 #### .. Walking?
 
-See [Standing](#standing), above.
+See [Standing](#-standing), above.
 
 #### .. On His Stomach?
 
@@ -40,3 +40,11 @@ If Joshua's back is parallel to the ground with his face down, Joshua may be on 
 #### .. Asleep?
 
 If his eyes are closed, Joshua is likely asleep. Joshua will often open his eyes if he is awake, but may close them for a few seconds at a time.
+
+#### .. Naked?
+
+Although Joshua does have clothes, he does at times go without them. If a large amount of Joshua's skin is exposed to view, he is likely not wearing any clothes (naked).
+
+#### Touching, Seeing, Hearing, Tasting, Smelling?
+
+Presumably, though he has not directly conveyed his experience of these senses to us - see [Talking](#-talking).
